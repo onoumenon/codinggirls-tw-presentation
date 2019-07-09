@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    name: `Fabian Schultz`,
-    title: `Gatsby Deck`,
-    date: `July 30, 2018`,
+    name: `Onoumenon`,
+    title: `My Developer Journey`,
+    date: `July 17, 2019`,
   },
   plugins: [
     `gatsby-plugin-layout`,

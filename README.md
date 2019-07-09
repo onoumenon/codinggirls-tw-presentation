@@ -1,12 +1,8 @@
 # gatsby-starter-deck
 
 [![dependencies](https://img.shields.io/david/fabe/gatsby-starter-deck.svg)](./package.json)
-[![deploys by netlify](https://img.shields.io/badge/deploys%20by-netlify-00c7b7.svg)](https://www.netlify.com)
+[![deployed with netlify](https://img.shields.io/badge/deploys%20by-netlify-00c7b7.svg)](https://www.netlify.com)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-
-Create presentations using Gatsby, React & Markdown. Inspired by Guillermo Rauch’s [deck on Next.js](https://deck.now.sh/) and [mdx-deck](https://github.com/jxnblk/mdx-deck).
-
-➡️ **[See a live example](//gatsby-deck.netlify.com)**
 
 ## Installation
 
@@ -55,7 +51,11 @@ Examples:
 ![Monkey](//i.imgur.com/PnbINJ6.gif)
 ```
 
-## Authors
+## Author of presentation
+
+- Tan Hui Tian ([onoumenon])(https://github.com/onoumenon)
+
+## Creators of Gatsby Slide Deck
 
 - Fabian Schultz ([@fschultz\_](https://twitter.com/fschultz_))
 - Frank Murphy ([AnIrishDuck](https://github.com/AnIrishDuck))
