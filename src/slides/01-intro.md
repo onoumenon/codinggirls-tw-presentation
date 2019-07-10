@@ -59,11 +59,11 @@ or refer to more resources at my [GitBook](https://app.gitbook.com/@onoumenon/s/
 
 ---
 
-![it's okay](./slide14.jpg)
+![it's okay](./quote.png)
 
 ---
 
-![get unstuck](./slide15.jpg)
+![get unstuck](./google.png)
 
 ---
 
@@ -71,11 +71,15 @@ or refer to more resources at my [GitBook](https://app.gitbook.com/@onoumenon/s/
 
 ---
 
-![fail small](./slide17.jpg)
+# Fail small.
+
+![fail small](./shipit.gif)
 
 ---
 
-![learn in public](./slide18.jpg)
+# Learn in public
+
+![learn in public](./public.gif)
 
 ---
 

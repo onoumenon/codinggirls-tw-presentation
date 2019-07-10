@@ -23,4 +23,4 @@
 
 ---
 
-![thanks](./slide31.jpg)
+![thanks](./thanks.gif)
