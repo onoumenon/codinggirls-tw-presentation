@@ -1,10 +1,10 @@
-># Hello World
-
->👋 Hi, I am Hui Tian.
+![introduction](./slide1.jpg)
 
 ---
 
-# Timeline
+[what I used to do](./slide2.jpg)
+
+---
 ## Pre-Bootcamp
 Sept '18 to Feb '19
 - Studied web dev basics
@@ -30,7 +30,7 @@ May 19 to June 19
 
 ---
 # Background
-> About 7 months ago, I was still working as ***an artist***. I had some **HTML/ CSS** background and was learning **JavaScript** for a few months by then after work.
+ About 7 months ago, I was still working as ***an artist***. I had some **HTML/ CSS** background and was learning **JavaScript** for a few months by then after work.
 
 ---
 
@@ -55,7 +55,7 @@ May 19 to June 19
 
 ---
 
-># It's going to be okay:
+## It's going to be okay:
 
 ---
 
@@ -71,7 +71,7 @@ May 19 to June 19
 
 ---
 
-># Managing uncertainty:
+## Managing uncertainty:
 
 ---
 
@@ -83,7 +83,7 @@ May 19 to June 19
 
 ---
 
-># How to learn effectively:
+## How to learn effectively:
 
 ---
 
