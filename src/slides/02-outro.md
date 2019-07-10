@@ -1,14 +1,26 @@
-Images can be embedded from the local filesystem!
 
-![xkcd on standards](./standards.png)
-
-(attribution: xkcd.com)
+![why more women](./slide25.jpg)
 
 ---
 
-![Monkey](//i.imgur.com/PnbINJ6.gif)
+![not just tech](./slide26.jpg)
 
-🌟 Star it on [GitHub](//github.com/fabe/gatsby-deck),  
-or create your own with:
+---
 
-    gatsby new my-slides https://github.com/fabe/gatsby-starter-deck
+![dev head count](./slide27.jpg)
+
+---
+
+![IT patents](./slide28.jpg)
+
+---
+
+![who's better](./slide29.jpg)
+
+---
+
+![we can do it](./slide30.jpg)
+
+---
+
+![thanks](./slide31.jpg)

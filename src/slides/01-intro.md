@@ -1,102 +1,102 @@
+# @onoumenon
+
+![QR code](./frame.png)
+
+🌟 Visit the presentation at [GitHub](https://github.com/onoumenon/codinggirls-tw-presentation),  
+or refer to more resources at my [GitBook](https://app.gitbook.com/@onoumenon/s/wiki)
+
+---
+
 ![introduction](./slide1.jpg)
 
 ---
 
-[what I used to do](./slide2.jpg)
-
----
-## Pre-Bootcamp
-Sept '18 to Feb '19
-- Studied web dev basics
-- Took CS50
-- Took coding test
+![what I used to do](./slide2.jpg)
 
 ---
 
-## Bootcamp
-Feb '19 - May '19
-- Mon-Fri, full day classes
-- 2 Solo Projects
-- 1 Group Project
+![draw](./slide3.jpg)
 
 ---
 
-## Job Search
-May 19 to June 19
-- Regular coding katas
-- Study algorithms and data structures
-- Went for interviews
-- Did coding assignments
-
----
-# Background
- About 7 months ago, I was still working as ***an artist***. I had some **HTML/ CSS** background and was learning **JavaScript** for a few months by then after work.
+![and draw more](./slide4.jpg)
 
 ---
 
-# Why programming?
-
-- Excellent job prospects
-- Autonomy and engaging work
-- Opportunity to do good
-- Open to candidates without degree
-- Lots of resources available online
+![and hang out at cons](./slide5.jpg)
 
 ---
 
-# What helped?
-- Learning how to learn by Barbara Oakley
-- EdX's CS50 Course by Harvard
-- Web Developer Roadmap​
+![life is a rollercoaster ride](./slide6.jpg)
 
 ---
 
-# What I wish I knew
+![have a social impact](./slide7.jpg)
 
 ---
 
-## It's going to be okay:
+![why programming](./slide8.jpg)
 
 ---
 
->It's okay not to know a lot of things. Not even the most experienced programmers know all the programming concepts.
+![timeline](./slide9.jpg)
 
 ---
 
->It's okay not to have a CS degree or even a degree. Employers are willing to hire developers without them if they are good. You can take the time to learn CS concepts afterwards.
+![what worked for me](./slide10.jpg)
 
 ---
 
->It's okay if you can't understand something. It's probably not because you are stupid. Programming is tricky, and sometimes you just need a break.
+![basic resources](./slide11.jpg)
 
 ---
 
-## Managing uncertainty:
+![more resources](./slide12.jpg)
 
 ---
 
->There's a mountain of things to learn and a myriad of paths. Don't worry about it too much if you've done your research and your current path is working for you. Pick one path and try to stick to it.
+![what I wish I knew](./slide13.jpg)
 
 ---
 
->You can't really predict how well you'll do in your programming career. Particularly if you don't fit with the stereotype. Don't knock it till you've tried it.
+![it's okay](./slide14.jpg)
 
 ---
 
-## How to learn effectively:
+![get unstuck](./slide15.jpg)
 
 ---
 
->Don't be afraid to fail. It's just code. But it's best to have people to give you feedback so you don't repeat mistakes.
+![pick a path](./slide16.jpg)
 
 ---
 
->Learn in public. It makes you accountable for your learning journey and mistakes.
+![fail small](./slide17.jpg)
 
 ---
 
->Learn GIT and how to use the command line sooner. 
+![learn in public](./slide18.jpg)
 
 ---
 
->Try to code or learn something every day. But remember to have time off. (Saturday is a break day for me.)
+![know your tools](./slide19.jpg)
+
+---
+
+![commit](./slide20.jpg)
+
+---
+
+![have fun](./slide21.jpg)
+
+---
+
+![what I do](./slide22.jpg)
+
+---
+
+![git commits](./slide23.jpg)
+
+---
+
+![time spent](./slide24.jpg)
