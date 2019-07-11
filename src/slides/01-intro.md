@@ -59,9 +59,13 @@ Or refer to more resources at [onoumenon.gitbook.io/wiki](https://onoumenon.gitb
 
 ---
 
+# You're gonna be okay.
+
 ![it's okay](./quote.png)
 
 ---
+
+# You're gonna get stuck. A lot.
 
 ![get unstuck](./google.png)
 
@@ -71,7 +75,7 @@ Or refer to more resources at [onoumenon.gitbook.io/wiki](https://onoumenon.gitb
 
 ---
 
-# Fail small.
+# You're gonna fail. But fail small.
 
 ![fail small](./shipit.gif)
 
@@ -83,17 +87,25 @@ Or refer to more resources at [onoumenon.gitbook.io/wiki](https://onoumenon.gitb
 
 ---
 
+# Know your tools.
+
 ![know your tools](./slide19.jpg)
 
 ---
+
+# Don't be afraid to commit.
 
 ![commit](./commits.png)
 
 ---
 
+# Have fun!
+
 ![have fun](./slide21.jpg)
 
 ---
+
+# I'm okay so far.
 
 ![git commits](./my-commits.png)
 
