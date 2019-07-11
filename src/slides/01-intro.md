@@ -2,8 +2,8 @@
 
 ![QR code](./frame.png)
 
-🌟 Visit the presentation at [GitHub](https://github.com/onoumenon/codinggirls-tw-presentation),  
-or refer to more resources at my [GitBook](https://app.gitbook.com/@onoumenon/s/wiki)
+Visit the presentation repo at [tiny.cc/bootcamp](https://github.com/onoumenon/codinggirls-tw-presentatio) 
+Or refer to more resources at [onoumenon.gitbook.io/wiki](https://onoumenon.gitbook.io/wiki/)
 
 ---
 
