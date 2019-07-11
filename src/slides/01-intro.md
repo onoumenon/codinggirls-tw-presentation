@@ -27,11 +27,11 @@ Or refer to more resources at [onoumenon.gitbook.io/wiki](https://onoumenon.gitb
 
 ---
 
-![life is a rollercoaster ride](./slide6.jpg)
+![life is a rollercoaster ride](./life.png)
 
 ---
 
-![have a social impact](./slide7.jpg)
+![have a social impact](./80000.jpg)
 
 ---
 
@@ -87,7 +87,7 @@ Or refer to more resources at [onoumenon.gitbook.io/wiki](https://onoumenon.gitb
 
 ---
 
-![commit](./slide20.jpg)
+![commit](./commits.png)
 
 ---
 
@@ -95,12 +95,5 @@ Or refer to more resources at [onoumenon.gitbook.io/wiki](https://onoumenon.gitb
 
 ---
 
-![what I do](./slide22.jpg)
+![git commits](./my-commits.png)
 
----
-
-![git commits](./slide23.jpg)
-
----
-
-![time spent](./slide24.jpg)

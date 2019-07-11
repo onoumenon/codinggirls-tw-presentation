@@ -3,7 +3,7 @@
 
 ---
 
-![not just tech](./slide26.jpg)
+![not just tech](./slide26.png)
 
 ---
 
