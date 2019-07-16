@@ -145,7 +145,8 @@ p {
 }
 
 header {
-  font-size: 50%;
+  font-size: 30%;
+  text-transform: uppercase;
 
   position: fixed;
   top: 0;
