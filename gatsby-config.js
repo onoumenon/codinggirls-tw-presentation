@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     name: `Onoumenon`,
     title: `My Developer Journey`,
+    date: `17 July 2019`,
   },
   plugins: [
     `gatsby-plugin-layout`,
