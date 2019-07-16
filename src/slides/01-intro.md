@@ -90,8 +90,10 @@
 
 ---
 
-# The journey so far.
-
 ![git commits](./journey.jpg)
+
+---
+
+![pictures](./pictures.jpg)
 
 
