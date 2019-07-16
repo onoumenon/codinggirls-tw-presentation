@@ -9,10 +9,15 @@ import './index.css';
 
 const Header = ({ name, title, date }) => (
   <header>
-    <Link to="/1">
-      <span>{name}</span> — {title}
-    </Link>
-    <time>{date}</time>
+    <Link to="/1">start</Link>
+    <Link to="/3">art</Link>
+    <Link to="/7">why</Link>
+    <Link to="/9">timeline</Link>
+    <Link to="/14">resources</Link>
+    <Link to="/17">advice</Link>
+    <Link to="/21">so far</Link>
+    <Link to="/23">women</Link>
+    <Link to="/29">qr code</Link>
   </header>
 );
 
@@ -71,7 +76,9 @@ class TemplateWrapper extends Component {
           onSwipedRight={this.swipeRight}
         >
           <Transition location={location}>
-            <div id="slide" style={{'width': '100%'}}>{children}</div>
+            <div id="slide" style={{ width: '100%' }}>
+              {children}
+            </div>
           </Transition>
         </Swipeable>
       </div>
